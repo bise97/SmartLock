@@ -7,6 +7,8 @@ Embedded project on STM32 boards for the academic course of Computer System Desi
 |:---|:---|
 |STM32CubeIDE 1.9.0|C|
 
+Demo at link: https://youtu.be/-k9FCmJ1etQ
+
 ---
 
 Contributors:
